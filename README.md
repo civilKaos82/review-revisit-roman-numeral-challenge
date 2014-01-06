@@ -2,35 +2,40 @@
  
 ##Learning Competencies 
 
+* Test code without attachment
+* Build test suites with descriptive output and clear indicators of passing tests.
+* Translate between different modes of modeling a problem.
+* Read and Write Psuedocode
+* Refactor poorly formatted code.
+* Organize code for consistency and readability.
+
 ##Summary 
 
- ### Grab a solution to Roman Numerals
+In this challenge you will learn by reviewing and refactoring the code of others. Make sure you have completed the original Roman Numeral Challenge first!
 
-Select a solution to the [Roman Numerals Challenge](http://socrates.devbootcamp.com/challenges/33) and copy it into your gist with a comment giving credit to the original author.
+##Releases
 
-**Note:** If you did not already complete Roman Numerals you should go back and do so.
+###Release 0 : Translate to plain English.
 
-### Explain the code in plain English
+First, choose a solution to the  [Roman Numerals Challenge](https://github.com/Devbootcamp/roman-numerals-challenge), pull a copy of this branch to your local repository and create a new `review` branch from it. See [How To Submit a Challenge - Review](https://github.com/sea-lions-2014/phase-1-guide/blob/master/how-to-submit.md) for detailed instructions. Make sure to do all your work on the `review` branch.
 
-Write two or three sentences that explain what this code does. Pretend that you're writing this for someone who knows nothing about computers. Type this explanation as comments in the appropriate section.
+Add an `explain.md` file to the repo and in this file, write two or three sentences that explain what this code does. Pretend that you're writing this for someone who knows nothing about computers (your grandma). 
 
-### Translate to pseudocode
+###Release 1 : Translate to pseudocode
 
-Write pseudocode that clearly defines the steps. Type this as comments in the appropriate section.
+Write pseudocode that clearly defines the steps.  Add the psuedocode below your English explanation in `explain.md`.
 
-### Test the code
+###Release 2 : Test the code
 
 Add at least 3 simple tests to the code with a comment above each stating what they are testing. Run the code and make sure these tests pass.
 
-### Refactor
+###Release 3 : Refactor
 
-Refactor (make at least two significant improvements) and add comments to your gist that explain how you are refactoring.
+Refactor the code. Make at least two significant improvements in the code itself, and in the `explain.md` file, add a section called `#Refactor` where you explain how you are refactoring the code and why.
 
 Make sure the code still passes your tests. 
 
-##Releases
-###Release 0 
-
+<!-- 
 ##Optimize Your Learning 
-
+ -->
 ##Resources
