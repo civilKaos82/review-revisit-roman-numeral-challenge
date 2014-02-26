@@ -3,7 +3,7 @@
 ##Learning Competencies 
 
 * Test code without attachment
-* Build test suites with descriptive output and clear indicators of passing tests.
+* Build test methods with descriptive output and clear indicators of passing tests
 * Translate between different modes of modeling a problem.
 * Read and Write Psuedocode
 * Refactor poorly formatted code.
