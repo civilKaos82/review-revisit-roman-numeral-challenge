@@ -17,7 +17,7 @@ In this challenge you will learn by reviewing and refactoring the code of others
 
 ###Release 0 : Translate to plain English.
 
-First, choose a solution to the  [Roman Numerals Challenge](https://github.com/Devbootcamp/roman-numerals-challenge), pull a copy of this branch to your local repository and create a new `review` branch from it. See [How To Submit a Challenge - Review](https://github.com/sea-lions-2014/phase-1-guide/blob/master/how-to-submit.md) for detailed instructions. Make sure to do all your work on the `review` branch.
+First, choose a solution to the  [Roman Numerals Challenge](../../../roman-numerals-challenge), pull a copy of this branch to your local repository and create a new `review` branch from it. See [How To Submit a Challenge - Review](../../../phase-1-guide/blob/master/resources/how-to-submit.md) for detailed instructions. Make sure to do all your work on the `review` branch.
 
 Add an `explain.md` file to the repo and in this file, write two or three sentences that explain what this code does. Pretend that you're writing this for someone who knows nothing about computers (your grandma). 
 
