@@ -1,14 +1,5 @@
 # Review Revisit Roman Numeral 
  
-##Learning Competencies 
-
-* Test code without attachment
-* Build test methods with descriptive output and clear indicators of passing tests
-* Translate between different modes of modeling a problem.
-* Read and Write Psuedocode
-* Refactor poorly formatted code.
-* Organize code for consistency and readability.
-
 ##Summary 
 
 In this challenge you will learn by reviewing and refactoring the code of others. Make sure you have completed the original Roman Numeral Challenge first!
